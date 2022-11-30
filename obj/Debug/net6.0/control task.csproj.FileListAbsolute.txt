@@ -1,0 +1,15 @@
+D:\GB\c sharp\hello console\control task\bin\Debug\net6.0\control task.exe
+D:\GB\c sharp\hello console\control task\bin\Debug\net6.0\control task.deps.json
+D:\GB\c sharp\hello console\control task\bin\Debug\net6.0\control task.runtimeconfig.json
+D:\GB\c sharp\hello console\control task\bin\Debug\net6.0\control task.dll
+D:\GB\c sharp\hello console\control task\bin\Debug\net6.0\control task.pdb
+D:\GB\c sharp\hello console\control task\obj\Debug\net6.0\control task.csproj.AssemblyReference.cache
+D:\GB\c sharp\hello console\control task\obj\Debug\net6.0\control task.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\c sharp\hello console\control task\obj\Debug\net6.0\control task.AssemblyInfoInputs.cache
+D:\GB\c sharp\hello console\control task\obj\Debug\net6.0\control task.AssemblyInfo.cs
+D:\GB\c sharp\hello console\control task\obj\Debug\net6.0\control task.csproj.CoreCompileInputs.cache
+D:\GB\c sharp\hello console\control task\obj\Debug\net6.0\control task.dll
+D:\GB\c sharp\hello console\control task\obj\Debug\net6.0\refint\control task.dll
+D:\GB\c sharp\hello console\control task\obj\Debug\net6.0\control task.pdb
+D:\GB\c sharp\hello console\control task\obj\Debug\net6.0\control task.genruntimeconfig.cache
+D:\GB\c sharp\hello console\control task\obj\Debug\net6.0\ref\control task.dll
